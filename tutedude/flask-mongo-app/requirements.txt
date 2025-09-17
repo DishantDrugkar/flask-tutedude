@@ -1,0 +1,6 @@
+Flask
+pymongo
+dnspython
+
+bC7DXVUyuHEdx8mK
+dishantdrugkar1_db_user
